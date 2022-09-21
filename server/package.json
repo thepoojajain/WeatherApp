@@ -1,0 +1,34 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A simple MongoDB and Express.js REST API that returns Weather Data of an Australian Capital City.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepoojajain/WeatherAppFrontend.git"
+  },
+  "keywords": [
+    "Weather",
+    "React.js",
+    "NodeJS",
+    "Express.js",
+    "MongoDB"
+  ],
+  "author": "Pooja Jain (@thepoojajain)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thepoojajain/WeatherAppFrontend/issues"
+  },
+  "homepage": "https://github.com/thepoojajain/WeatherAppFrontend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.1"
+  }
+}
