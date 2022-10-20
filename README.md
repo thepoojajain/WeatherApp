@@ -42,8 +42,5 @@ Navigate to the `server` folder and then run `npm start` on the terminal. This w
 
 ## Links:
 
-[My Presentation](https://docs.google.com/presentation/d/e/2PACX-1vQOw_eaVY37ymxKTxm4Q678_TDog9d2Y29DztnEwO2J7aynusGItlkUxrLYkbmLz9Jt8HOGSINS2R6m/pub?start=true&loop=false&delayms=3000&slide=id.g93c8758771_0_300)
-
-[My GitHub](https://github.com/thepoojajain?tab=repositories)
 
 Thank you for taking the time! 🙂
